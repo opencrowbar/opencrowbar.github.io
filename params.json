@@ -1,1 +1,18 @@
-{"name":"OpenCrowbar","tagline":"OpenCrowbar Community Home","body":"### The Crowbar Project\r\n\r\nThe Crowbar Project is an open Apache2 licensed framework to build complete, easy to use operational deployments for everyone. It allows for groups of physical nodes to be transformed from bare-metal into a ready state production cluster within hours. Specific applications include (but are not limited to) Ceph, Hadoop and OpenStack.\r\n\r\n### Fast Track Install and Run!\r\nWe've made it easy to install Crowbar for virtual or physical provisioning.\r\n* RPM install (link pending)\r\n* [Docker Centos Container install](https://github.com/opencrowbar/core/blob/master/doc/development-guides/dev-systems)\r\n\r\n### OpenCrowbar Authors and Contributors\r\n* Project Founder: Rob Hirschfeld (@cloudedge, @ravolt)\r\n* Lead Architect: Victor Lowther (@victorlowther)\r\n* Community Evanglist: Judd Maltin (@newgoliath, @juddmaltin-dell)\r\n* ...\r\n\r\n\r\n### Support or Contact\r\nSign up for the group / mail list: [Group Groups OpenCrowbar](https://groups.google.com/forum/#!forum/opencrowbar)\r\nHang out with us on IRC: [Freenode channel #crowbar](https://botbot.me/freenode/crowbar/)\r\nFile Defects or Create Features: [Github Issues](https://github.com/opencrowbar/core/issues?milestone=2&state=open)\r\n","google":"UA-2028640-4","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{ "body" : "
+### The Crowbar Project\r\n\r\n
+The Crowbar Project is an open Apache2 licensed framework to build complete, easy to use operational deployments for everyone. It allows for groups of physical nodes to be transformed from bare-metal into a ready state production cluster within hours. Specific applications include (but are not limited to) Ceph, Hadoop and OpenStack.\r\n\r\n
+### Fast Track Install and Run!\r\n
+We've made it easy to install Crowbar for virtual or physical provisioning.\r\n
+* [RPM install](http://linux.last-bastion.net/LBN/up2date/cloud/19/opencrowbar-core-2.0.0.3926-1.noarch.rpm)\r\n
+* [Docker Centos Container install](https://github.com/opencrowbar/core/blob/master/doc/development-guides/dev-systems)\r\n\r\n
+### OpenCrowbar Authors and Contributors\r\n
+* Project Founder: Rob Hirschfeld (@cloudedge, @ravolt)\r\n
+* Lead Architect: Victor Lowther (@victorlowther)\r\n
+* Community Evanglist: Judd Maltin (@newgoliath, @juddmaltin-dell)\r\n
+* ...\r\n\r\n\r\n
+### Support or Contact\r\nSign up for the group / mail list: [Group Groups OpenCrowbar](https://groups.google.com/forum/#!forum/opencrowbar)\r\nHang out with us on IRC: [Freenode channel #crowbar](https://botbot.me/freenode/crowbar/)\r\nFile Defects or Create Features: [Github Issues](https://github.com/opencrowbar/core/issues?milestone=2&state=open)\r\n",
+  "google" : "UA-2028640-4",
+  "name" : "OpenCrowbar",
+  "note" : "Don't delete this file! It's used internally to help with page regeneration.",
+  "tagline" : "OpenCrowbar Community Home"
+}
